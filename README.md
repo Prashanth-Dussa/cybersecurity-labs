@@ -17,7 +17,8 @@ This repository contains my cybersecurity practice labs and experiments.
 - Nmap
 - Metasploit
 - Wireshark
-- Burp Suite
+- nessus
+- acunetix
 
 ## Prashanth
 
