@@ -19,6 +19,6 @@ This repository contains my cybersecurity practice labs and experiments.
 - Wireshark
 - Burp Suite
 
-## Author
+## Prashanth
 
 Cybersecurity Student passionate about learning ethical hacking and security analysis.
